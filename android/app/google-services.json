@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "72010637607",
+    "firebase_url": "https://togood-5d7cc-default-rtdb.firebaseio.com",
+    "project_id": "togood-5d7cc",
+    "storage_bucket": "togood-5d7cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72010637607:android:6fffd8ad57c27a60d44902",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07tW80O_hmI63WjlQCDgrVVWHIsO0YFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72010637607:android:1093563b2c7cea38d44902",
+        "android_client_info": {
+          "package_name": "com.example.n"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07tW80O_hmI63WjlQCDgrVVWHIsO0YFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72010637607:android:a6ab2e09d9c766ced44902",
+        "android_client_info": {
+          "package_name": "com.example.supres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07tW80O_hmI63WjlQCDgrVVWHIsO0YFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
